@@ -1,4 +1,4 @@
-# 🧠 The World of Large Language Models (LLMs) & GenAI
+# 🧠 The World of Large Language Models (LLMs) 
 
 Welcome! This space is dedicated to exploring the fascinating mechanics, architectures, and applications of **Large Language Models (LLMs)**. LLMs represent a massive leap forward in Natural Language Processing (NLP), transitioning machine learning from simple pattern recognition to deep contextual understanding and text generation.
 
